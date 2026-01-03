@@ -1,0 +1,252 @@
+[
+  {
+    "id": "party",
+    "unit": "Unit 1",
+    "title": "🍻 It’s a Party Now!",
+    "baseXP": 1,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": true,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "fast",
+    "unit": "Unit 1",
+    "title": "💨 Gotta Go Fast!",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "untested",
+    "unit": "Unit 2",
+    "title": "🛠️ Untested and Unafraid",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  },
+  {
+    "id": "demonstrate",
+    "unit": "Unit 2",
+    "title": "🌟 Allow Me to Demonstrate!",
+    "baseXP": 4,
+    "variableXP": false,
+    "repeatable": true,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  },
+  {
+    "id": "ensemble",
+    "unit": "Unit 2",
+    "title": "😤 It’s an Unstoppable Ensemble Now!",
+    "baseXP": 3,
+    "variableXP": true,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    },
+    "notes": "3–4 XP base. Facilitators can earn +1 XP and an additional 🎨 badge.",
+    "bonusXP": 1,
+    "bonusBadges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    },
+    "bonusLabel": "Facilitator bonus (+1 XP +🎨)"
+  },
+  {
+    "id": "breakingarchive",
+    "unit": "Unit 2",
+    "title": "🗃️ Breaking the Archive",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 1,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "hiddenarchives",
+    "unit": "Unit 3",
+    "title": "🔖 Hidden Archives",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 1,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "dramaticexit",
+    "unit": "Unit 3",
+    "title": "🚪 Dramatic Exit",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  },
+  {
+    "id": "fellowship",
+    "unit": "Unit 3",
+    "title": "🌟 It’s a Formidable Fellowship Now!",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "poetry",
+    "unit": "Unit 3",
+    "title": "💡 Poetry in Motion",
+    "baseXP": 4,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 1,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "baton",
+    "unit": "Unit 3",
+    "title": "🪄 Baton Pass",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  },
+  {
+    "id": "horizons",
+    "unit": "Eternal",
+    "title": "🎙️ Playful Horizons",
+    "baseXP": 2,
+    "variableXP": false,
+    "repeatable": true,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 1,
+      "design": 0,
+      "hero": 0
+    }
+  },
+  {
+    "id": "pact",
+    "unit": "Eternal",
+    "title": "🙏 Pact Tactics",
+    "baseXP": 2,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": true,
+    "released": false,
+    "badges": {
+      "collab": 1,
+      "research": 0,
+      "design": 0,
+      "hero": 0
+    },
+    "notes": "Optional 🎨 badge if you teach/learn GitHub pull/push with a new user (per syllabus)."
+  },
+  {
+    "id": "jam",
+    "unit": "Eternal",
+    "title": "🍓 This is My Jam!",
+    "baseXP": 2,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  },
+  {
+    "id": "mod",
+    "unit": "Eternal",
+    "title": "🛠️ A Couple Modifications!",
+    "baseXP": 3,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": false,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
+    }
+  }
+]
