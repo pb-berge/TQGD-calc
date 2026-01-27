@@ -23,7 +23,7 @@
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 0,
       "research": 0,
@@ -55,7 +55,7 @@
     "variableXP": false,
     "repeatable": true,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 1,
       "research": 0,
@@ -176,7 +176,7 @@
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 0,
       "research": 0,
@@ -238,21 +238,6 @@
     "unit": "Eternal",
     "title": "🛠️ A Couple Modifications!",
     "baseXP": 3,
-    "variableXP": false,
-    "repeatable": false,
-    "optDesign": false,
-    "released": false,
-    "badges": {
-      "collab": 0,
-      "research": 0,
-      "design": 1,
-      "hero": 0
-    },
-      {
-    "id": "mods",
-    "unit": "Unit 1",
-    "title": "🛠️ A Couple Modifications!",
-    "baseXP": 4,
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
