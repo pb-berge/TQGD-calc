@@ -247,6 +247,20 @@
       "research": 0,
       "design": 1,
       "hero": 0
+    },
+      {
+    "id": "mods",
+    "unit": "Unit 1",
+    "title": "🛠️ A Couple Modifications!",
+    "baseXP": 4,
+    "variableXP": false,
+    "repeatable": false,
+    "optDesign": false,
+    "released": true,
+    "badges": {
+      "collab": 0,
+      "research": 0,
+      "design": 1,
+      "hero": 0
     }
-  }
 ]
