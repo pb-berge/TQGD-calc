@@ -34,12 +34,12 @@
   {
     "id": "untested",
     "unit": "Unit 2",
-    "title": "🛠️ Untested and Unafraid",
+    "title": "🧰 Untested and Unafraid",
     "baseXP": 3,
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 1,
       "research": 0,
@@ -71,7 +71,7 @@
     "variableXP": true,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 1,
       "research": 0,
@@ -106,13 +106,13 @@
   },
   {
     "id": "hiddenarchives",
-    "unit": "Unit 3",
+    "unit": "Unit 2",
     "title": "🔖 Hidden Archives",
     "baseXP": 3,
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 0,
       "research": 1,
