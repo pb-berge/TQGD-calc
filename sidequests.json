@@ -110,7 +110,7 @@
     "title": "🔖 Hidden Archives",
     "baseXP": 3,
     "variableXP": false,
-    "repeatable": false,
+    "repeatable": true,
     "optDesign": false,
     "released": true,
     "badges": {
@@ -128,7 +128,7 @@
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 0,
       "research": 0,
@@ -144,7 +144,7 @@
     "variableXP": false,
     "repeatable": false,
     "optDesign": false,
-    "released": false,
+    "released": true,
     "badges": {
       "collab": 1,
       "research": 0,
