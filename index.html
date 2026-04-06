@@ -134,7 +134,7 @@ XP Tracker / Planner 🏳️‍⚧️🌈🕹️</h1>
         <div class="row"><label for="heroManual">Add Heroism Badges</label>
         <input type="number" id="heroManual" min="0" step="1"/></div>
         <div class="row"></div>
-          <label><strong>Allocate Heroism</strong> <span class="hint">(3 Heroism → 1 Wildcard)</span></label>
+          <label><strong>Allocate Heroism</strong> <span class="hint">(1 Heroism → 1 Wildcard)</span></label>
           <div style="display:flex; gap:8px; align-items:center">
 			  <span class="hint" id="heroAvail">0 available</span>
 		  </div>
@@ -449,7 +449,7 @@ XP Tracker / Planner 🏳️‍⚧️🌈🕹️</h1>
 
       // Heroism wildcards: every 3 heroism = 1 wildcard allocated to 🤝/🔎/🎨
       const heroTotal = heroManual + autoHero;
-      const wildcards = Math.floor(heroTotal / 3);
+      const wildcards = Math.floor(heroTotal / 1);
       if(allocC > wildcards) allocC = wildcards;
       let rem = wildcards - allocC;
       if(allocR > rem) allocR = rem;
